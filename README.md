@@ -1,4 +1,4 @@
-![Profile Header Image](https://raw.githubusercontent.com/boramriganka/boramriganka/master/images/githubReadMe.jpg)
+![Profile Header Image](https://raw.githubusercontent.com/boramriganka/boramriganka/master/header3.png)
 
 
 ### Hi there 👋
