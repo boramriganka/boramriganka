@@ -1,16 +1,15 @@
+![Profile Header Image](https://raw.githubusercontent.com/boramriganka/boramriganka/master/images/githubReadMe.jpg)
+
+
 ### Hi there 👋
 
-<!--
-**boramriganka/boramriganka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mriganka and I am currently studying  Computer Science Enginering. I am interested in all aspects of technology and especially in Web Development,Full Stack Development. I strongly believe in the power of technology to improve people's everyday life, solve humanitarian issues and create a more sustainable, accessible and inclusive world.
+<br>
+- 👩‍🎓 I am currently working as an remote intern in a start-up called Xorai(Palo Alto, US)
+- 🌱 I’m currently learning React,Redux and Node.js development.
+- ⚡ I'm passionate about Web Design and I love creating beautiful things.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrigankabora" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+</p>
