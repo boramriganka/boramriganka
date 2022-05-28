@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-My name is Mriganka and I am currently studying  Computer Science Engineering. I am interested in all aspects of technology and especially in Web Development,Full Stack Development. I strongly believe in the power of technology to improve people's everyday life, solve humanitarian issues and create a more sustainable, accessible and inclusive world.
+My name is Mriganka and I am currently working as a sde-1 for web. I am well versed with JavaScript,React,Redux,Next,GraphQL,Unit Testing etc. I strongly believe in the power of technology to improve people's everyday life, solve humanitarian issues and create a more sustainable, accessible and inclusive world.
 <br>
-- 🌱 I’m currently learning React,Redux and Node.js development.
+- 🌱 After working with React for a long time, I’m currently exploring Vue.
 - ⚡ I'm passionate about Web Design and I love creating beautiful things.
 <br>
 
